@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="160" height="50" viewBox="0 0 160 50" fill="none">
+  <rect width="160" height="50" rx="8" fill="#0a192f"/>
+  <circle cx="25" cy="25" r="12" fill="#22c55e"/>
+  <path d="M20 25c8-14 12 14 20 0" stroke="#48cae4" stroke-width="4" fill="none"/>
+  <text x="55" y="31" font-family="Montserrat, Arial" font-size="16" fill="#fff">Green Infra</text>
+</svg>
